@@ -1,0 +1,36 @@
+{
+    "conversas":[
+        {
+            "mensagens":[ "onde está localizado o provedor?","onde se encontrar a loja?", "Qual o endereço da loja?"],
+            "resposta": "Nossa sede se encontra na Avenida Macaúbas, 2170 , B. Brasil Vitória da Conquista BA."
+        },
+        {
+            "mensagens":["Quais o planos ofertados?","que planos de internet voçes tem?"],
+            "resposta": "No momento temos disponiniveis os seguintes planos: 50 mega, 100mega, 200mega."
+        },
+        {
+            "mensagens":["Quais os valores dos plano?","qual o valor de cada plano?", "qual o preço de cada plano?"],
+            "resposta": "No momento os valoeres são: 50 MB por R$39,99, 100 MB por R$49,99, 200 MB por R$59,99."
+        },
+        {
+            "mensagens":["Qual o prazo para realizar instalação?","Quanto temo demora para fazer a instalação?"],
+            "resposta":"Nosso prazo de instação é de 15 dias a parti da data do pedido."
+        },
+        {
+            "mensagens":["Quais o meios de pagamento ofertados?","Como posso realizar o pagamento?","Quais  as formas de pagamento?"],
+            "resposta":"Trabalhamos com as seguintes formas de pagamento: Boleto, Cartões, Pix e transferencia Bancaria ."
+        },
+        {
+            "mensagens":["onde voçes atendem?","Quais são os cidadas vocês atendems:", "Qual a area de corbertura?"],
+            "resposta":"Hoje atendemos a cidades de Vitória da conquista, Anagé, Barra do choça, Guanambi, Brumado e Jéquie."
+        },
+        {
+            "mensagens":["Quais o beneficios ofertados?"," algum beneficio?"],
+            "resposta":"Sim. Para pagamento até um dia antes do vencimento o cliente ganha 10 % de desconto na mensalidade."
+        },
+        {
+            "mensagens":["Onde posso contratar?"," como posso contratar o serviço?"],
+            "resposta":"Você pode contratar nossos serviços através da nossa central de atendimento, em nossas lojas ou com um dos nosssos vendedores."
+        }
+    ]
+}
